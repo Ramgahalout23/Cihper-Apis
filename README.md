@@ -2,14 +2,9 @@ Laravel API Project
 
 
 Setup Instructions
-1. Clone the Repository
-git clone https://github.com/yourusername/your-repository.git
-
-
-cd your-repository
-3. Install Dependencies
 
 composer install
+
 4. Set Up Environment
 Copy the example environment file:
 
